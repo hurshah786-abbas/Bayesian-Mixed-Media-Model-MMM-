@@ -29,8 +29,7 @@ Files Included
 
     MMM_test_data.csv: The input data file containing weekly revenue and marketing spend data for different channels.
     Read.md: The markdown file containing the documentation of the project.
-    adstock_modeling.ipynb: The Jupyter Notebook file containing the Python code for implementing adstock modeling and analyzing marketing mix data.
-    adstock_modeling.py: The Python script containing the code for implementing adstock modeling and analyzing marketing mix data.
+   
 
 Conclusion
 
